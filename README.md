@@ -1,5 +1,3 @@
-![Header](https://i.gifer.com/NvL.gif)
-
 ## I'm junior developer
 
 ### Languages and Tools
