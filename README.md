@@ -11,7 +11,7 @@ Bachelor (2020-2024)
 ![CSS/SCSS](https://img.shields.io/badge/-CSS/SCSS-<COLOR>?style=flat-square&logo=appveyor)
 ![C](https://img.shields.io/badge/-C-<COLOR>?style=flat-square&logo=appveyor)
 ![SQL](https://img.shields.io/badge/-SQL-<COLOR>?style=flat-square&logo=appveyor)
-![SAP NetWeaver](https://img.shields.io/badge/-SAP NetWeaver-<COLOR>?style=flat-square&logo=appveyor)
+![SAP NetWeaver](https://img.shields.io/badge/-SAP-<COLOR>?style=flat-square&logo=appveyor)
 
 ### Contact me
 
