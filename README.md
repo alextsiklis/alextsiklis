@@ -1,9 +1,9 @@
 - ### About me
 
-:mens: I'm Junior Developer, SAP MDM.
-:mortar_board: National Research Nuclear University Moscow Engineering Physics Institute
-Bachelor (2020-2024)
-:email: alex-tsiklis@yandex.ru
+* :mens: I'm Junior Developer, SAP MDM.
+* :mortar_board: National Research Nuclear University Moscow Engineering Physics Institute
+  - Bachelor (2020-2024)
+* :email: alex-tsiklis@yandex.ru
 
 - ### Languages and Tools/Skills
 
