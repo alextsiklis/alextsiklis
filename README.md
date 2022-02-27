@@ -1,11 +1,11 @@
-- ### About me
+## About me
 
-* :mens: I'm Junior Developer, SAP MDM.
-* :mortar_board: National Research Nuclear University Moscow Engineering Physics Institute
+- :mens: I'm Junior Developer, SAP MDM.
+- :mortar_board: National Research Nuclear University Moscow Engineering Physics Institute
   - Bachelor (2020-2024)
-* :email: alex-tsiklis@yandex.ru
+- :email: alex-tsiklis@yandex.ru
 
-- ### Languages and Tools/Skills
+## Languages and Tools/Skills
 
 ![Java](https://img.shields.io/badge/-Java-<COLOR>?style=flat-square&logo=appveyor)
 ![JavaScript/TypeScript](https://img.shields.io/badge/-JavaScript/TypeScript-<COLOR>?style=flat-square&logo=appveyor)
@@ -14,7 +14,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-<COLOR>?style=flat-square&logo=appveyor)
 ![SAP NetWeaver](https://img.shields.io/badge/-SAP-<COLOR>?style=flat-square&logo=appveyor)
 
-- ### Contact me
+## Contact me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-<COLOR>?style=flat-square&logo=appveyor)](https://www.instagram.com/acycloid/)
 [![VK](https://img.shields.io/badge/-VK-<COLOR>?style=flat-square&logo=appveyor)](https://vk.com/tsiklis)
