@@ -12,6 +12,7 @@
 ![CSS/SCSS](https://img.shields.io/badge/-CSS/SCSS-<COLOR>?style=flat-square&logo=appveyor)
 ![HTML](https://img.shields.io/badge/-HTML-<COLOR>?style=flat-square&logo=appveyor)
 ![C](https://img.shields.io/badge/-C-<COLOR>?style=flat-square&logo=appveyor)
+![C++](https://img.shields.io/badge/-C++-<COLOR>?style=flat-square&logo=appveyor)
 ![SQL](https://img.shields.io/badge/-SQL-<COLOR>?style=flat-square&logo=appveyor)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-<COLOR>?style=flat-square&logo=appveyor)
 ![SAP NetWeaver](https://img.shields.io/badge/-SAP-<COLOR>?style=flat-square&logo=appveyor)
@@ -20,6 +21,7 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-<COLOR>?style=flat-square&logo=appveyor)](https://www.instagram.com/acycloid/)
 [![VK](https://img.shields.io/badge/-VK-<COLOR>?style=flat-square&logo=appveyor)](https://vk.com/tsiklis)
+[![Telegram](https://img.shields.io/badge/-Telegram-<COLOR>?style=flat-square&logo=appveyor)](https://t.me/tcycloid)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alextsiklis&show_icons=true&theme=radical) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alextsiklis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
