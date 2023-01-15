@@ -24,4 +24,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-<COLOR>?style=flat-square&logo=appveyor)](https://t.me/tcycloid)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alextsiklis&show_icons=true&theme=radical) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alextsiklis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alextsiklis&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
