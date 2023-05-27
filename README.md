@@ -16,6 +16,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-<COLOR>?style=flat-square&logo=appveyor)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-<COLOR>?style=flat-square&logo=appveyor)
 ![SAP NetWeaver](https://img.shields.io/badge/-SAP-<COLOR>?style=flat-square&logo=appveyor)
+![1C](https://img.shields.io/badge/-1C-<COLOR>?style=flat-square&logo=appveyor)
+![Python](https://img.shields.io/badge/-Python-<COLOR>?style=flat-square&logo=appveyor)
+![Ruby](https://img.shields.io/badge/-Ruby-<COLOR>?style=flat-square&logo=appveyor)
 
 ## Contact me
 
